@@ -1,7 +1,7 @@
 {
   "name": "angular-ui",
   "homepage": "https://github.com/mwagena/angular-ui",
-  "name": "./build/angular-ui.js",
+  "main": "./build/angular-ui.js",
   "version": "0.4.0",
   "_release": "0.4.0",
   "_resolution": {
